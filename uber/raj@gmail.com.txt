@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------------------
+     User ID          No.of Rides        Total Amount
+  raj@gmail.com            0                   1100.0
+
+  JOURNEYS  
+S.no            Date                  Src                 Destination             amount
+1               2018-12-12T11:44:12   PTC                 kalambakkam             400.0
+2               2018-12-12T10:55:12   DLF hyd             madhapur                700.0
+
+  OFFERS  
+No offer for this user
+--------------------------------------------------------------------------------------------
+

@@ -1,0 +1,68 @@
+
+
+Uber want to generate the total bill and want to give 50%Off for the cutomer
+whose bill total bill amount >5000 for next five rides.
+
+Find the Uber Application data file 
+The file contains
+1. serial number
+2.User Id
+3.date
+4.source
+5.destination
+6.fare
+
+1,aziz@gmail.com,12/12/2018 12:12:12,katni kanta,Al-arif center,700
+2,raju@gmail.com,12/12/2018 13:10:12,noorishah,sec-bad,550
+3,ramu@gmail.com,12/12/2018 14:10:12,RGIA,bandlaguda,400
+4,aziz@gmail.com,12/12/2018 01:02:12,navallur,light house,900
+5,raju@gmail.com,12/12/2018 02:42:12,kelambakkam,white house,700
+6,ramu@gmail.com,12/12/2018 04:22:12,srisuri,mtukupppam,300
+7,aziz@gmail.com,12/12/2018 12:33:12,metukuppam,srisuri,400
+8,raj@gmail.com,12/12/2018 11:44:12,PTC,kalambakkam,400
+9,raj@gmail.com,12/12/2018 10:55:12,DLF hyd,madhapur,700
+10,aziz@gmail.com,12/12/2018 12:59:12,charminar,hitech city,500
+
+
+
+generate the separate bill for each customer in the format below
+
+aziz@gmail.com is the file name for customer aziz@gmail.com
+
+User ID                No.of Rides  Total Amount
+---------             ------------- ---------------
+---------             ------------- ---------------
+aziz@gmail.com           4                  2500
+
+Journeys
+----------
+----------
+S.no   Date                               Src                   Destination             amount
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+1    12-12-2018 12:12:12         katni kanta         Al-arif center                 700   
+2    12-12-2018 01:02:12          navallur	 light house     	       900  
+3    12-12-2018 12:33:12          metukuppam	 srisuri                         400
+4    12-12-2018 12:59:12         charminar	 hitech city                  500
+
+
+Offers
+------
+
+No offer for this user
+
+----------------------------------------------------------------------------------
+If the user has total amount >5000
+
+Add below details at end the file other wise add No offer for this user.
+
+
+Offer
+-----
+-----
+50%off for next Five ride
+
+
+
+
+

@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------------------
+     User ID          No.of Rides        Total Amount
+  aziz@gmail.com            0                   2500.0
+
+  JOURNEYS  
+S.no            Date                  Src                 Destination             amount
+1               2018-12-12T12:12:12   katni kanta         Al-arif center          700.0
+2               2018-12-12T01:02:12   navallur            light house             900.0
+3               2018-12-12T12:33:12   metukuppam          srisuri                 400.0
+4               2018-12-12T12:59:12   charminar           hitech city             500.0
+
+  OFFERS  
+ 50% OFF for next Five ride 
+--------------------------------------------------------------------------------------------
+

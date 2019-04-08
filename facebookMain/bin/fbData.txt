@@ -1,0 +1,4 @@
+aziz,aziz1234,aziz@gmail.com,9090909090
+raju,raju1234,raju@gmail.com,9090222222
+ramu,ramu1234,ramu@gmail.com,9090222222
+tamu,tamu1234,tamu@gmail.com,9090222222

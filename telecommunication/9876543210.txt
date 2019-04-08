@@ -1,0 +1,26 @@
+Bill for 9876543210 (Plan 1)
+
+Item Description                                        Amount
+================                                        =======
+Base talk time fare                                       100
+Additional talk time fare  (127 minutes)                  127
+                                                        ========
+Amount to pay                                             227
+                                                        ========
+Call Details
+==============
+Date                    Called Number                  Duration
+=====================   =============                 ==========
+01/08/2018 01:25:03      8765432109                     121
+04/08/2018 04:28:06      8765432112                      80
+07/08/2018 07:31:09      8765432115                      25
+10/08/2018 10:34:12      8765432118                      96
+13/08/2018 13:37:25      8765432121                       5
+                                                     ============
+Total call duration                                     327
+                                                     ============
+Additional minutes  (327-200)                           127
+                                                     ============
+
+
+

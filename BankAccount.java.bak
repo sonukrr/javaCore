@@ -1,0 +1,83 @@
+
+class Account{
+
+static String data[];
+
+static{
+	data =new String[]{"100,50000,D,50000",
+		"101,50000,D,50000",
+		"102,50000,W,50000"};
+	}
+
+private int accountNumber;
+private double balanceAmount;
+private char transType;
+private double transAmount;
+
+void setAccountNumber(int accountNumber)
+	{this.accountNumber = accountNumber;}
+
+void setBalanceAmount(double balanceAmount)
+	{this.balanceAmount = balanceAmount;}
+
+void setTransType(char transType)
+	{this.transType = transType;}
+
+void setTransAmount(double transAmount)
+	{this.transAmount = transAmount;}
+
+void getAccountNumber()
+	{accountNumber = this.accountNumber;}
+
+void getBalanceAmount(double balanceAmount)
+	{balanceAmount = this.balanceAmount;}
+
+void getTransType(char transType)
+	{transType = this.transType;}
+
+void getTransAmount(double transAmount)
+	{transAmount = this.transAmount;}
+
+public void transaction()
+{
+
+System.out.println("ACCOUNT NUMBER : "+accountNumber);
+System.out.println("Before transaction BALANCE is : "+balanceAmount);
+
+if(transType == 'D')
+balanceAmount += transAmount ;
+else if(transType == 'W' && balanceAmount >= transAmount)
+balanceAmount -= transAmount ;
+
+System.out.println("After transaction BALANCE is : "+balanceAmount);
+System.out.println();
+}
+
+public String toString(){
+return ("ACCOUNT NUMBER : "+accountNumber+"After transaction BALANCE is : "+balanceAmount);
+}
+}
+
+class BankAccount
+{
+
+public static void main(String args[])
+{	
+	for(int i=0;i<Account.data.length;i++)
+	{
+	Account ac = new Account();
+	String arr[] = Account.data[i].split(",");
+	String a1=arr[0];
+	String a2=arr[1];
+	String a3=arr[2];
+	String a4=arr[3];
+
+	ac.setAccountNumber(Integer.parseInt(a1) );
+	ac.setBalanceAmount(Double.parseDouble(a2));
+	ac.setTransType(a3.charAt(0));
+	ac.setTransAmount(Double.parseDouble(a4));
+	ac.transaction();
+	}
+	Account ac1 = new Account();
+	system.out.println(ac1);
+}}

@@ -1,0 +1,10 @@
+aziz@gmail.com,12/12/2018 12:12:12,katni kanta,Al-arif center,700
+raju@gmail.com,12/12/2018 13:10:12,noorishah,sec-bad,550
+ramu@gmail.com,12/12/2018 14:10:12,RGIA,bandlaguda,400
+aziz@gmail.com,12/12/2018 01:02:12,navallur,light house,900
+raju@gmail.com,12/12/2018 02:42:12,kelambakkam,white house,700
+ramu@gmail.com,12/12/2018 04:22:12,srisuri,mtukupppam,300
+aziz@gmail.com,12/12/2018 12:33:12,metukuppam,srisuri,400
+raj@gmail.com,12/12/2018 11:44:12,PTC,kalambakkam,400
+raj@gmail.com,12/12/2018 10:55:12,DLF hyd,madhapur,700
+aziz@gmail.com,12/12/2018 12:59:12,charminar,hitech city,500

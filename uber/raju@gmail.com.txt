@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------------------
+     User ID          No.of Rides        Total Amount
+  raju@gmail.com            0                   1250.0
+
+  JOURNEYS  
+S.no            Date                  Src                 Destination             amount
+1               2018-12-12T13:10:12   noorishah           sec-bad                 550.0
+2               2018-12-12T02:42:12   kelambakkam         white house             700.0
+
+  OFFERS  
+No offer for this user
+--------------------------------------------------------------------------------------------
+

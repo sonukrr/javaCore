@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------------------
+     User ID          No.of Rides        Total Amount
+  ramu@gmail.com            0                   700.0
+
+  JOURNEYS  
+S.no            Date                  Src                 Destination             amount
+1               2018-12-12T14:10:12   RGIA                bandlaguda              400.0
+2               2018-12-12T04:22:12   srisuri             mtukupppam              300.0
+
+  OFFERS  
+No offer for this user
+--------------------------------------------------------------------------------------------
+
